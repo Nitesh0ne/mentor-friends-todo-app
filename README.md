@@ -74,8 +74,10 @@ npm -v
 ### 2️⃣ Clone  the guthub Repository  and navigate to the project root directory 
 
 ```
-git clone 
-cd 
+git clone https://github.com/Nitesh0ne/mentor-friends-todo-app.git
+
+cd mentor-friends-todo-app
+
 ```
 
 
