@@ -139,13 +139,6 @@ Before accessing the application, users **must create an account and log in**.
 
 ---
 
-## 🧪 Features Demonstrated
-
-- Schema-driven data modeling
-- Real-time task listing using listeners
-- Edit mode handling using shared widget state
-- Manual form reset for better user experience
-
 
 ## 📞 References & Support
 
