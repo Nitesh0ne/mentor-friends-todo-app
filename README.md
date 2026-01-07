@@ -122,7 +122,7 @@ Before accessing the application, users **must create an account and log in**.
 3️⃣ **Access the To-Do Application**
 - Once logged in, open:
 **http://localhost:5173/todo**
-![alt text](image-5.png)
+![alt text](image-6.png)
 
 
 ## 🧠 How the To-Do App Works
