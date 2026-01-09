@@ -95,7 +95,7 @@ npm install
 ```bash
 npm run dev
 
-**Acess the Application**: https://ocalhost:5173
+Acess the Application: https://localhost:5173
 ```
 
 ---
